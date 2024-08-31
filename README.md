@@ -23,7 +23,7 @@ TensorFlow is a free and open-source software library for machine learning and a
 
 Classification is a supervised machine learning process of categorizing a given set of input data into classes based on one or more variables. <br></br>
 
-**Important Note: Before Jumping to the code go through the fashion mnist dataset to learn more.**
+**Important Note: Before Jumping to the code go through the Fashion Mnist Dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/fashion_mnist) to learn more.**
 
 </table>
 
