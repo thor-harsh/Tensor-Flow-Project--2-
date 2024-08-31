@@ -7,10 +7,10 @@
 
 **Let's looks into dataset and categories of it:** <br></br>
 
-**About Dataset**: <br>
+**About Dataset**: <br></br>
 Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. <br>
 
-** Please go through the image to know about different categories or classes.
+** Please go through the image to know about different categories or classes.<br>
 ![image](https://github.com/user-attachments/assets/1772e443-e561-4cda-8327-94b589a7605a)
 
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by classification problem?**...<br></br>
