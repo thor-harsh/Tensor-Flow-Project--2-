@@ -23,7 +23,7 @@ TensorFlow is a free and open-source software library for machine learning and a
 
 Classification is a supervised machine learning process of categorizing a given set of input data into classes based on one or more variables. <br></br>
 
-**Important Note: Before Jumping to the code go through this git hub link https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv to learn about the dataset.**
+**Important Note: Before Jumping to the code go through the fashion mnist dataset to learn more.**
 
 </table>
 
